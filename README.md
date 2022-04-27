@@ -26,7 +26,7 @@
 
 <h3 align="left">Currently working on:</h3>
 <p align="left">
- :fire:  Improving my konwledge of **JavaScript and Vue.js** (I'm also open to take on another framework i.e. React or Angular). :fire:
+ :fire:  Improving my konwledge of <b>JavaScript and Vue.js</b> (I'm also open to take on another framework i.e. React or Angular). :fire:
 </p>
 
 ---
