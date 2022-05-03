@@ -21,16 +21,16 @@
 
 
 ---
-<h3 align="left">Currently working on:</h3>
+<h3 align="left">The main goal:</h3>
 <p align="left">
  :fire:  Improving my konwledge of <b>JavaScript and Vue.js</b> (I'm also open to take on another framework i.e. React or Angular). :fire:
 </p>
 
 ---
 
-<h3 align="left">In plans:</h3>
+<h3 align="left">Currently wokrking on:</h3>
 <p align="left">
- :writing_hand:  Start new project from scratch based just on PSD template. The main goal is to make it fully using Vue.js :writing_hand:
+ :writing_hand:  New project (StartUp) building from scratch based just on PSD template using Vue.js :writing_hand:
 </p>
 
 ---
