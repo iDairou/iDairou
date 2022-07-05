@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Andrej Kaczanowski</h1>
-<h3 align="center">A passionate frontend developer. I am committed to gaining more and more experience in coding. I am open-minded and highly motivated to take an internship or work towards frontend development.</h3>
+<h3 align="center">A passionate front-end developer. I am committed to gaining more and more experience in coding. I am open-minded and highly motivated to take an internship or work towards front-end development.</h3>
 
 *<h4>How would I describe myself?</h4>*
 
@@ -17,18 +17,18 @@
 
 :heavy_check_mark: Reliable :guide_dog:
 
-:heavy_check_mark: Teamplayer :fist_right::fist_left:
+:heavy_check_mark: Teamp layer :fist_right::fist_left:
 
 
 ---
 <h3 align="left">The main goal:</h3>
 <p align="left">
- :fire:  Improving my konwledge of <b>JavaScript and Vue.js</b> (I'm also open to take on another framework i.e. React or Angular). :fire:
+ :fire:  Improving my knowledge of <b>JavaScript and Vue.js</b> (I'm also open to take on another framework i.e. React or Angular). :fire:
 </p>
 
 ---
 
-<h3 align="left">Currently wokrking on:</h3>
+<h3 align="left">Currently working on:</h3>
 <p align="left">
  :writing_hand:  New project (StartUp) building from scratch based just on PSD template using Vue.js :writing_hand:
 </p>
