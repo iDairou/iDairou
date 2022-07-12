@@ -23,14 +23,14 @@
 ---
 <h3 align="left">The main goal:</h3>
 <p align="left">
- :fire:  Improving my knowledge of <b>JavaScript and Vue.js</b> (I'm also open to take on another framework i.e. React or Angular). :fire:
+ :fire:  Find a job as a Junior Front-end Developer :fire:
 </p>
 
 ---
 
 <h3 align="left">Currently working on:</h3>
 <p align="left">
- :writing_hand:  New project (StartUp) building from scratch based just on PSD template using Vue.js :writing_hand:
+ :writing_hand:  Improving my knowledge of <b>JavaScript and React</b> (I'm also open to take on another framework i.e. Vue or Angular). :writing_hand:
 </p>
 
 ---
