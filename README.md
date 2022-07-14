@@ -17,7 +17,7 @@
 
 :heavy_check_mark: Reliable :guide_dog:
 
-:heavy_check_mark: Teamp layer :fist_right::fist_left:
+:heavy_check_mark: Team player :fist_right::fist_left:
 
 
 ---
