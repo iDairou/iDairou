@@ -23,7 +23,7 @@
 ---
 <h3 align="left">The main goal:</h3>
 <p align="left">
- :fire:  Find a job as a Junior Front-end Developer :fire:
+ :fire:  Find a job as a Junior Front-end Developer. :fire:
 </p>
 
 ---
