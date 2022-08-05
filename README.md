@@ -1,4 +1,9 @@
 <h1 align="center">Hello 👋, I'm Andrej Kaczanowski</h1>
+
+<p align="center" >
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+</p>
+
 <h3 align="center">A passionate front-end developer. I am committed to gaining more and more experience in coding. I am open-minded and highly motivated to take an internship or work towards front-end development.</h3>
 
 *<h4>How would I describe myself?</h4>*
