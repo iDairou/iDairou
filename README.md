@@ -45,9 +45,7 @@
 <a href="https://linkedin.com/in/andrej-kaczanowski-14737219a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrej-kaczanowski-14737219a" height="30" width="40" /></a>
 <a href="https://fb.com/andrej.kaczanowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrej.kaczanowski" height="30" width="40" /></a>
 </p>
-
 or 
-
 :email: [Email](mailto:andykaczanowski@gmail.com)
 
 ---
