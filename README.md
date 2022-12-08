@@ -14,7 +14,7 @@
 
 :heavy_check_mark: Honest :brain:
 
-:heavy_check_mark: Loyal :beers:
+:heavy_check_mark: Loyal 🤝
 
 :heavy_check_mark: Communicative :loud_sound:
 
