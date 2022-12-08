@@ -14,13 +14,13 @@
 
 :heavy_check_mark: Honest :brain:
 
-:heavy_check_mark: Loyal 🤝
+:heavy_check_mark: Loyal :guide_dog:
 
 :heavy_check_mark: Communicative :loud_sound:
 
 :heavy_check_mark: Motivated :v:
 
-:heavy_check_mark: Reliable :guide_dog:
+:heavy_check_mark: Reliable 🤝
 
 :heavy_check_mark: Team player :fist_right::fist_left:
 
