@@ -1,7 +1,11 @@
 <h1 align="center">Hello 👋, I'm Andrej Kaczanowski</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Andrej%20Kaczanowski&fontColor=FFBD59&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Andrej Kaczanowski – Full-Stack Developer"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FFBD59&center=true&vCenter=true&width=520&lines=Hello+%F0%9F%91%8B%2C+I'm+Andrej;From+idea+to+production" alt="Typing intro"/>
 </p>
 
 <h3 align="center">Full-stack developer who loves building things end to end, from the first idea and architecture, through the UI, to the pipeline that ships it.</h3>
