@@ -1,5 +1,3 @@
-<h1 align="center">Hello 👋, I'm Andrej Kaczanowski</h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Andrej%20Kaczanowski&fontColor=FFBD59&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Andrej Kaczanowski – Full-Stack Developer"/>
 </p>
